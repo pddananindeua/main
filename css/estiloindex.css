@@ -28,13 +28,13 @@ body{
       opacity: 0.7;
   }
   .navbar li a, .navbar .navbar-brand { 
-      color: #d5d5d5   !important;
+      color: #d5d5d5 !important;
   }
   .navbar-nav li a:hover {
-      color: #FF8C00 !important;
+      color: #fff !important;
   }
   .navbar-nav li.active a {
-      color: #FFA500 !important;
+      color: #fff !important;
       background-color: #29292c !important;
   }
   .navbar-default .navbar-toggle {
@@ -49,11 +49,6 @@ body{
   }
   .dropdown-menu li a:hover {
       background-color: red !important;
-  }
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
   }
   
   .bg-1 { 
