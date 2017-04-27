@@ -16,16 +16,16 @@ body{
     height:13px;width:13px;padding:0
 }
 .nav-tabs li a {
-      color: #FFA500;
+      color: #777;
   }  
   .navbar {
       font-family: Montserrat, sans-serif;
       margin-bottom: 0;
-      background-color: #2F4F4F ;
+      background-color: #2d2d30;
       border: 0;
       font-size: 11px !important;
       letter-spacing: 4px;
-      opacity: 0.9;
+      opacity: 0.7;
   }
   .navbar li a, .navbar .navbar-brand { 
       color: #fff   !important;
